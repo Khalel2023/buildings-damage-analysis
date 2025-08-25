@@ -49,7 +49,17 @@ Then we can start training our model using [train_model.py](https://github.com/K
 Before we start classification part, extract building crops using [process.py](https://github.com/Khalel2023/buildings-damage-analysis/blob/main/classification_part/process_data.py)
 Then start training classification model using [classification_model.py](https://github.com/Khalel2023/buildings-damage-analysis/blob/main/classification_part/classification_model.py) 
 
+**Demo api part**
+If you want to try your trained models in a simple demo app, you can deploy them using [app.py](https://github.com/Khalel2023/buildings-damage-analysis/blob/main/app_part/app.py)
 
+
+
+
+**Output**
+
+![output_image](https://raw.githubusercontent.com/Khalel2023/buildings-damage-analysis/main/app_part/output.png)
+
+**Thanks for checking this out!**
 
 
 
