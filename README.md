@@ -45,6 +45,9 @@ For segmentation, we use a custom U-Net model to identify building footprints.
 Before that, we need to create the dataset with [dataset.py](https://github.com/Khalel2023/buildings-damage-analysis/blob/main/segmentation_part/dataset.py) 
 Then we can start training our model using [train_model.py](https://github.com/Khalel2023/buildings-damage-analysis/blob/main/segmentation_part/train_model.py)
 
+**Classification part**
+Before we start classification part, extract building crops using [process.py](https://github.com/Khalel2023/buildings-damage-analysis/blob/main/classification_part/process_data.py)
+Then start training classification model using [classification_model.py](https://github.com/Khalel2023/buildings-damage-analysis/blob/main/classification_part/classification_model.py) 
 
 
 
