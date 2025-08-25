@@ -18,22 +18,24 @@ To get started,we should first download the basic data from this link: **[xBD](h
 
 **Next step**
 Make sure that you have the same structure as shown below
-xBD 
- ├── disaster_name_1
- │      ├── images 
- │      │      └── <image_id>.png
- │      │      └── ...
- │      ├── labels
- │      │      └── <image_id>.json
- │      │      └── ...
- ├── disaster_name_2
- │      ├── images 
- │      │      └── <image_id>.png
- │      │      └── ...
- │      ├── labels
- │      │      └── <image_id>.json
- │      │      └── ...
- └── disaster_name_n 
+
+
+xBD
+├── disaster_name_1
+│ ├── images
+│ │ └── <image_id>.png
+│ │ └── ...
+│ ├── labels
+│ │ └── <image_id>.json
+│ │ └── ...
+├── disaster_name_2
+│ ├── images
+│ │ └── <image_id>.png
+│ │ └── ...
+│ ├── labels
+│ │ └── <image_id>.json
+│ │ └── ...
+└── disaster_name_n
 
 
     
